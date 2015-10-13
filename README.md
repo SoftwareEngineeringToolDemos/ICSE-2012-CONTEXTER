@@ -3,9 +3,13 @@ This repository contains information related to the tool ConTexter feedback syst
 <p>
 The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm?id=2337452) at International Conference on Software Engineering, 2012.
 <p>
-This repository is <b><i>NOT</b></i> the original repository for this tool.<br>
 Here is the link to the [Original Project Page](http://www.se.uni-hannover.de/pages/en:projekte_contexter)<br>
 Here is the link to the [Video](https://vimeo.com/31190473)
+<p>
+This repository <b><i> is NOT</b></i> the original repository for this tool.<br>
+This repository does not contain:<br> 
+:x:<b>Source Code</b><br>
+:x:<b>Binary Distribution</b>
 <p>
 The tool is under construction and not available for redistribution.<br>
 <p>
