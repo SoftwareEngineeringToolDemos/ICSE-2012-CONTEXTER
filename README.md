@@ -7,10 +7,10 @@ Here is the link to the [Original Project Page](http://www.se.uni-hannover.de/pa
 Here is the link to the [Video](https://vimeo.com/31190473)
 <p>
 This repository <b><i> is NOT</b></i> the original repository for this tool.<br>
-This repository does not contain:<br> 
+In this repository for ConTexter feedback system you will find:<br> 
 :x:<b>Source Code</b><br>
 :x:<b>Binary Distribution</b>
 <p>
 The tool is under construction and not available for redistribution.<br>
 <p>
-This repository was constructed by [Manav Verma](https://github.com/mverma4) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Kurt Schneider for his help in establishing this repository.
+This repository was constructed by [Manav Verma](https://github.com/mverma4) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Kurt Schneider, Dr. Tristan Wehrmaker & Dr. Stefan Gärtner for their help in establishing this repository.
